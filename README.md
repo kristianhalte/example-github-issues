@@ -12,7 +12,10 @@ Use the `shoppinglist.txt` file as the shopping list that needs modifications
 - [x] reopen 1 issue with comment
 - [x] re-fix issue with commit
 - [x] close 1 issue with commit
-- [ ] raise 1 issue to existing issue
+- [x] raise 1 issue to existing issue
+- [ ] close parent issue with commit
+- [ ] re-open parent issue
+- [ ] close fix child issue and close parent issue with commit
 - [ ] reference issue ID in issue comment
 - [ ] reference issue ID in commit comment
 - [ ] reference commit hash in issue comment
