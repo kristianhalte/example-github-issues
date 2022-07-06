@@ -14,7 +14,7 @@ Use the `shoppinglist.txt` file as the shopping list that needs modifications
 - [x] close 1 issue with commit
 - [x] raise 1 issue to existing issue
 - [x] close parent issue with commit
-- [ ] re-open parent issue
+- [x] re-open parent issue and add child issue
 - [ ] close fix child issue and close parent issue with commit
 - [ ] reference issue ID in issue comment
 - [ ] reference issue ID in commit comment
