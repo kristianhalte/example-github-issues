@@ -8,3 +8,6 @@ peach
 lime
 strawberry
 blueberry
+broccoli
+spinach
+onion
