@@ -7,7 +7,7 @@ Use the `shoppinglist.txt` file as the shopping list that needs modifications
 - [x] add item to shopping list
 - [x] check default labels
 - [x] raise 5 issues with request to add additional items to shopping list
-- [ ] resolve 1 issue with commit
+- [x] resolve 1 issue with commit
 - [ ] fix 1 issue with commit
 - [ ] close 1 issue with commit
 - [ ] raise 1 issue to existing issue
