@@ -11,4 +11,4 @@ broccoli
 spinach
 onion
 potato
-walnut
+english walnut
