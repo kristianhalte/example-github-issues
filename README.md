@@ -10,6 +10,7 @@ Use the `shoppinglist.txt` file as the shopping list that needs modifications
 - [ ] resolve 1 issue with commit
 - [ ] fix 1 issue with commit
 - [ ] close 1 issue with commit
+- [ ] raise 1 issue to existing issue
 - [ ] reference issue ID in issue comment
 - [ ] reference issue ID in commit comment
 - [ ] reference commit hash in issue comment
