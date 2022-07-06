@@ -20,3 +20,8 @@ Use the `shoppinglist.txt` file as the shopping list that needs modifications
 - [x] reference issue ID in commit comment
 - [x] reference commit hash in issue comment
 - [x] reference commit hash in commit comment
+
+## Learnings
+- checkboxes in issue becomes tasks
+- can't open issues from tasks, but can reference issue in task
+- can't open an issue from a comment
