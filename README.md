@@ -17,6 +17,6 @@ Use the `shoppinglist.txt` file as the shopping list that needs modifications
 - [x] re-open parent issue and add child issue
 - [x] fix child issue and close parent issue with commit
 - [x] reference issue ID in issue comment
-- [ ] reference issue ID in commit comment
-- [ ] reference commit hash in issue comment
+- [x] reference issue ID in commit comment
+- [x] reference commit hash in issue comment
 - [ ] reference commit hash in commit comment
