@@ -13,7 +13,7 @@ Use the `shoppinglist.txt` file as the shopping list that needs modifications
 - [x] re-fix issue with commit
 - [x] close 1 issue with commit
 - [x] raise 1 issue to existing issue
-- [ ] close parent issue with commit
+- [x] close parent issue with commit
 - [ ] re-open parent issue
 - [ ] close fix child issue and close parent issue with commit
 - [ ] reference issue ID in issue comment
