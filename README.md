@@ -5,7 +5,7 @@ This repo is meant showcase how to use github issues
 Use the `shoppinglist.txt` file as the shopping list that needs modifications
 
 - [x] add item to shopping list
-- [ ] set up labels for `feature` and `bug`
+- [x] check default labels
 - [ ] raise 5 issues with request to add additional items to shopping list
 - [ ] resolve 1 issue with commit
 - [ ] fix 1 issue with commit
