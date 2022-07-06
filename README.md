@@ -19,4 +19,4 @@ Use the `shoppinglist.txt` file as the shopping list that needs modifications
 - [x] reference issue ID in issue comment
 - [x] reference issue ID in commit comment
 - [x] reference commit hash in issue comment
-- [ ] reference commit hash in commit comment
+- [x] reference commit hash in commit comment
