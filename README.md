@@ -30,5 +30,5 @@ Use the `shoppinglist.txt` file as the shopping list that needs modifications
 - [x] create a bug template through github UI
 - [x] update the bug template through the `.github/ISSUE_TEMPLATE/bug_report.md` file
 - [x] raise 1 bug request
-- [ ] configure template chooser through the `.github/ISSUE_TEMPLATE/config.yml` file
+- [x] configure template chooser through the `.github/ISSUE_TEMPLATE/config.yml` file
 
