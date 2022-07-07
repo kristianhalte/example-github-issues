@@ -1,7 +1,7 @@
 # Example: Github Issues
 This repo is meant showcase how to use github issues
 
-## Getting Started with Issues
+## Getting Started: Github Issues
 Use the `shoppinglist.txt` file as the shopping list that needs modifications
 
 - [x] add item to shopping list
@@ -21,7 +21,13 @@ Use the `shoppinglist.txt` file as the shopping list that needs modifications
 - [x] reference commit hash in issue comment
 - [x] reference commit hash in commit comment
 
-## Learnings
+#### Learnings
 - checkboxes in issue becomes tasks
 - can't open issues from tasks, but can reference issue in task
 - can't open an issue from a comment
+
+## Further Exploration: Issue Templates
+- [ ] create an enhancement template
+- [ ] create a bug template
+- [ ] raise 1 enhancement request
+- [ ] raise 1 bug request
