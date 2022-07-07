@@ -27,7 +27,7 @@ Use the `shoppinglist.txt` file as the shopping list that needs modifications
 - can't open an issue from a comment
 
 ## Further Exploration: Issue Templates
-- [ ] create a bug template through github UI
+- [x] create a bug template through github UI
 - [ ] create an enhancement template through `.github/ISSUE_TEMPLATE/` folder
 - [ ] raise 1 bug request
 - [ ] raise 1 enhancement request
