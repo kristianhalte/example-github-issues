@@ -32,3 +32,5 @@ Use the `shoppinglist.txt` file as the shopping list that needs modifications
 - [x] raise 1 bug request
 - [x] configure template chooser through the `.github/ISSUE_TEMPLATE/config.yml` file
 
+#### Learnings
+- only public repos can use `.yml` templates for richer forms 
